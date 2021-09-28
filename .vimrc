@@ -10,7 +10,7 @@ set nowrap
 set smartcase 
 set noswapfile "no swap file (vim creates them by default) 
 set nobackup "no backup file
-set undodir=~/.nvim/undodir
+set undodir=~/.vim/undodir
 set undofile
 set cursorline
 set mouse=a
